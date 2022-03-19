@@ -1,0 +1,1 @@
+print("what is programing introduction of python,intoduction of snake games,and bolck introducing and motivationinsatalltion pthm")
